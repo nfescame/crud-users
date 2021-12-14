@@ -1,0 +1,20 @@
+.sectionContainer {
+  border-radius: 10px;
+  box-shadow: 0 0 2em #0b5ed7;
+  margin: 2rem 0;
+}
+
+.sectionContainer .titleContent {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+.sectionContainer .titleContent h3 {
+  color: red;
+}
+
+.sectionContainer .containerBtn {
+  padding: 1rem;
+  display: flex;
+  justify-content: flex-end;
+}

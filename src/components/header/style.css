@@ -1,0 +1,8 @@
+.sectionHeader {
+  padding: 2rem;
+  text-align: center;
+}
+.sectionHeader h1 {
+  color: #0b5ed7;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
